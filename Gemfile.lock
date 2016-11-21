@@ -1,0 +1,38 @@
+GIT
+  remote: https://github.com/AlexPurhalo/asdetmin.git
+  revision: 89399dde8ab972f0a92b8e619dc4d7988f3582c0
+  specs:
+    asdetmin (0.1.0)
+      oj (~> 2.17)
+      rack (~> 2.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    diff-lcs (1.2.5)
+    oj (2.17.5)
+    rack (2.0.1)
+    rspec (3.5.0)
+      rspec-core (~> 3.5.0)
+      rspec-expectations (~> 3.5.0)
+      rspec-mocks (~> 3.5.0)
+    rspec-core (3.5.4)
+      rspec-support (~> 3.5.0)
+    rspec-expectations (3.5.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.5.0)
+    rspec-mocks (3.5.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.5.0)
+    rspec-support (3.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  asdetmin!
+  rack
+  rspec
+
+BUNDLED WITH
+   1.13.2
